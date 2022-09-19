@@ -10,5 +10,5 @@ Pour plus d'info sur le parcours Ma Prépa Numérique - Big Dev, voir [https://w
 
 HTML5_Logo_128.png : [W3C HTML5 Logo](https://www.w3.org/html/logo/)
 
-image-128.png : [Image - Free interface icons](https://www.flaticon.com/free-icon/image_739249)
+coding-128.png : [Image - Free interface icons](https://www.flaticon.com/free-icon/coding_644596)
 
