@@ -1,7 +1,15 @@
-body {
-  background-color: pink;
+/*
+un commentaire
+en plusieurs en ligne
+*/
+p {
+  background-color: gold;
 }
 
-h1 {
-  font-size: 64px;
+.special {
+  background-color: coral;
+}
+
+#unique {
+  background-color: lightblue;
 }
