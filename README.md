@@ -12,3 +12,5 @@ HTML5_Logo_128.png : [W3C HTML5 Logo](https://www.w3.org/html/logo/)
 
 coding-128.png : [Image - Free interface icons](https://www.flaticon.com/free-icon/coding_644596)
 
+CSS3_logo_and_wordmark.png : [File:CSS3 logo and wordmark.svg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg)
+
