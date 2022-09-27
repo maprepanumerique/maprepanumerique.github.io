@@ -1,0 +1,32 @@
+.my-span {
+    background-color: green;
+    /* ignoré */
+    height: 100px;
+    margin: 0 10px;
+    padding: 0 20px;
+}
+
+.my-span2 {
+    background-color: green;
+    margin: 0 10px;
+    padding: 0 20px;
+}
+
+.my-div {
+    background-color: red;
+    width: 300px;
+    height: 100px;
+    border: 5px solid blue;
+}
+
+h2 {
+    background-color: lightblue;
+    margin: 10px;
+    padding: 20px;
+}
+
+a {
+    background-color: pink;
+    margin: 10px;
+    padding: 20px;
+}
