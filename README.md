@@ -14,3 +14,4 @@ coding-128.png : [Image - Free interface icons](https://www.flaticon.com/free-ic
 
 CSS3_logo_and_wordmark.png : [File:CSS3 logo and wordmark.svg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg)
 
+writing-64.png : [Writing - Free interface icons](https://www.flaticon.com/free-icon/writing_2518068)
