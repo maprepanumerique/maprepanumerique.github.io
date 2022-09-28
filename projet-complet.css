@@ -1,0 +1,45 @@
+body {
+    background-color: #fcdd16 !important;
+}
+
+h1 {
+    color: #fc1698;
+    padding: 2rem;
+    font-size: 4rem !important;
+}
+
+section {
+    border-top: 30px dotted #ea4438;
+}
+
+h2 {
+    color: #3c7738;
+    font-size: 3rem !important;
+}
+
+article {
+    color: #56414d;
+    padding: 2rem;
+    font-size: 2rem;
+    border-bottom: 10px dashed #ea4438;
+}
+
+article.alt-border {
+    border-style: none;
+    border-bottom: 30px dotted #7d9b4d;
+    margin-bottom: 3rem;
+}
+
+a {
+    text-decoration: none !important;
+    color: #6716fc !important;
+}
+
+footer {
+    color: #fc1698;
+    background-color: #c8fc74;
+    padding: 1rem;
+    font-size: 1.5rem;
+    line-height: 3rem;
+    text-align: right;
+}
