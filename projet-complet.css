@@ -8,8 +8,8 @@ h1 {
     font-size: 4rem !important;
 }
 
-section {
-    border-top: 30px dotted #ea4438;
+header {
+    border-bottom: 30px dotted #ea4438;
 }
 
 h2 {
@@ -26,8 +26,6 @@ article {
 
 article.alt-border {
     border-style: none;
-    border-bottom: 30px dotted #7d9b4d;
-    margin-bottom: 3rem;
 }
 
 .illustration {
@@ -37,6 +35,13 @@ article.alt-border {
 a {
     text-decoration: none !important;
     color: #6716fc !important;
+}
+
+hr {
+    height: 0px;
+    margin: 0 0 3rem !important;
+    border-top: 30px dotted #7d9b4d !important;
+    opacity: 1.0 !important;
 }
 
 footer {
