@@ -30,6 +30,10 @@ article.alt-border {
     margin-bottom: 3rem;
 }
 
+.illustration {
+    width: 50%;
+}
+
 a {
     text-decoration: none !important;
     color: #6716fc !important;
