@@ -24,12 +24,12 @@ article {
     border-bottom: 10px dashed #ea4438;
 }
 
-article.alt-border {
+article.no-border {
     border-style: none;
 }
 
 .illustration {
-    width: 50%;
+    width: 100%;
 }
 
 a {
