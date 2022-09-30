@@ -28,9 +28,12 @@ article.no-border {
     border-style: none;
 }
 
+/* remplacé par img-fluid de bootstrap */
+/*
 .illustration {
     width: 100%;
 }
+*/
 
 a {
     text-decoration: none !important;
